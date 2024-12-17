@@ -1,0 +1,14 @@
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/bin/Debug/net9.0/AdventOfCode2
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/bin/Debug/net9.0/AdventOfCode2.deps.json
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/bin/Debug/net9.0/AdventOfCode2.runtimeconfig.json
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/bin/Debug/net9.0/AdventOfCode2.dll
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/bin/Debug/net9.0/AdventOfCode2.pdb
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/obj/Debug/net9.0/AdventOfCode2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/obj/Debug/net9.0/AdventOfCode2.AssemblyInfoInputs.cache
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/obj/Debug/net9.0/AdventOfCode2.AssemblyInfo.cs
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/obj/Debug/net9.0/AdventOfCode2.csproj.CoreCompileInputs.cache
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/obj/Debug/net9.0/AdventOfCode2.dll
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/obj/Debug/net9.0/refint/AdventOfCode2.dll
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/obj/Debug/net9.0/AdventOfCode2.pdb
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/obj/Debug/net9.0/AdventOfCode2.genruntimeconfig.cache
+/Users/per2/Documents/AdventOfCode2/AdventOfCode2/obj/Debug/net9.0/ref/AdventOfCode2.dll
