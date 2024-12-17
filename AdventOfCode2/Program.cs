@@ -10,7 +10,6 @@ namespace AdventOfCode {
 
         private void DoDay1() {
             Day1 d1 = new Day1();
-            d1.Init();
             Console.WriteLine(d1.AttemptI());
             Console.WriteLine(d1.AttemptII());
         }
